@@ -1,0 +1,1 @@
+{"expo":{"name":"GurbaniScroll","slug":"gurbaniscroll","scheme":"gurbaniscroll","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"dark","ios":{"supportsTablet":true,"bundleIdentifier":"com.gurbaniscroll.app"},"android":{"package":"com.gurbaniscroll.app"},"plugins":["expo-router"],"experiments":{"typedRoutes":false}}}
